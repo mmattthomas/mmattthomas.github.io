@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post!"
+title: "Welcome to the theme park of the future, where nothing can possiblie go wrong"
 ---
 
-This is the first post
+Welcome.  Just getting things started here, so please excuse the mess and/or awesome feeling of loneliness.
